@@ -1,0 +1,1 @@
+配置了一个一主两从的集群，使用redis_6380.conf的RedisServer作为master节点，使用redis_6379.conf和redis_6381.conf配置文件的Redis Server作为slave节点，并且使用redis_sentinel_26379.conf和redis_sentinel_26380.conf配置了两个sentinel节点。
